@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					7459B7B61F48E09B00B0953F = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = ASEUR2BJ2X;
 						ProvisioningStyle = Automatic;
 					};
 					7459B7CA1F48E09B00B0953F = {
@@ -414,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = ASEUR2BJ2X;
 				INFOPLIST_FILE = StringToGeoLocation/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = test.StringToGeoLocation;
@@ -426,6 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = ASEUR2BJ2X;
 				INFOPLIST_FILE = StringToGeoLocation/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = test.StringToGeoLocation;
